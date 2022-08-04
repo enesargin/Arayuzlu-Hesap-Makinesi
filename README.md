@@ -12,3 +12,6 @@ iletişim ?
 Kulanılan diller ?
 Python - 3.10.6
 ----------------------------------------------------------
+Kullanılan Text Editörü ?
+PyCharm - Community edition
+----------------------------------------------------------
